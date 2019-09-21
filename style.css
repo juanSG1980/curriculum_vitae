@@ -1,0 +1,31 @@
+
+header{
+    text-align: center;
+    background: orange;
+    font-family: arial;
+    }
+
+.font{
+        background: black;
+        color: white;
+     }
+
+.marron{
+     background: gray;
+    }
+
+em{
+    color: blue;
+    text-decoration: underline;
+    font-style: normal;
+    
+}
+span{
+    color: brown;
+}
+footer{
+    text-align: center;
+    background: rgb(50, 205, 89);
+    font-weight: bold;
+    
+}
